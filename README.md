@@ -30,6 +30,7 @@ I decided to start on Upwork projects just for learning and then present them to
 ## How to Use
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/elrf3lipes/Python_Automation_Projects.git
 
