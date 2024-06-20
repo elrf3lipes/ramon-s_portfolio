@@ -17,13 +17,13 @@
 ## Libraries Used
 
 - **[Biopython](https://biopython.org/)**: For handling biological data.
-- **Requests**: For making HTTP requests to APIs.
-- **urllib**: For URL handling.
-- **xml.etree**: For parsing XML data.
-- **IPython**: For interactive computing.
-- **Pandas**: For data manipulation and analysis.
-- **Entrez**: For accessing NCBI databases.
-- **Medline**: For parsing Medline records.
+- **[Requests](https://pypi.org/project/requests/)**: For making HTTP requests to APIs.
+- **[urllib](https://docs.python.org/3/library/urllib.html)**: For URL handling.
+- **[xml.etree](https://docs.python.org/3/library/xml.etree.elementtree.html)**: For parsing XML data.
+- **[IPython](https://ipython.readthedocs.io/en/stable/)**: For interactive computing.
+- **[Pandas](https://pypi.org/project/pandas/)**: For data manipulation and analysis.
+- **[Entrez](https://biopython.org/wiki/Entrez)**: For accessing NCBI databases.
+- **[Medline](https://biopython.org/wiki/Medline)**: For parsing Medline records.
 
 ## Motivation
 
