@@ -16,7 +16,7 @@
 
 ## Libraries Used
 
-- **Biopython**: For handling biological data.
+- **[Biopython](https://biopython.org/)**: For handling biological data.
 - **Requests**: For making HTTP requests to APIs.
 - **urllib**: For URL handling.
 - **xml.etree**: For parsing XML data.
