@@ -22,8 +22,8 @@
 - **[xml.etree](https://docs.python.org/3/library/xml.etree.elementtree.html)**: For parsing XML data.
 - **[IPython](https://ipython.readthedocs.io/en/stable/)**: For interactive computing.
 - **[Pandas](https://pypi.org/project/pandas/)**: For data manipulation and analysis.
-- **[Entrez](https://biopython.org/wiki/Entrez)**: For accessing NCBI databases.
-- **[Medline](https://biopython.org/wiki/Medline)**: For parsing Medline records.
+- **[Entrez](https://biopython.org/docs/1.75/api/Bio.Entrez.html)**: For accessing NCBI databases.
+- **[Medline](https://biopython.org/docs/1.75/api/Bio.Medline.html)**: For parsing Medline records.
 
 ## Motivation
 
