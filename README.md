@@ -31,18 +31,15 @@ I decided to start on Upwork projects just for learning and then present them to
 
 1. Clone the repository:
    
-   ```bash
-   git clone https://github.com/elrf3lipes/Python_Automation_Projects.git```
+   ```git clone https://github.com/elrf3lipes/Python_Automation_Projects.git```
 
 3. Navigate to the project directory:
 
-   ```bash
-   cd Python_Automation_Projects```
+   ```cd Python_Automation_Projects```
 
 5. Open the Jupyter Notebook:
 
-   ```bash
-   jupyter notebook Pubmed_Clinical_Trials_data_extraction_1.ipynb```
+   ```jupyter notebook Pubmed_Clinical_Trials_data_extraction_1.ipynb```
 
 Follow the instructions within the notebook to execute the data extraction and parsing processes.
 
