@@ -10,7 +10,7 @@
 ## Features
 
 - **API Integration**: Seamless integration with Pubmed and ClinicalTrials APIs to fetch relevant clinical trials data.
-- **Data Parsing**: Efficient parsing of XML data using `xml.etree`.
+- **Data Parsing**: Efficient parsing of XML data using 'xml.etree'.
 - **Data Manipulation**: Advanced data manipulation and analysis using Pandas.
 - **Interactive Environment**: Utilizes IPython for an interactive coding experience.
 
@@ -50,3 +50,16 @@ Follow the instructions within the notebook to execute the data extraction and p
 This project aims to simplify the process of extracting the affiliation data from [Pubmed](https://pubmed.ncbi.nlm.nih.gov/) and [ClinicalTrials](https://clinicaltrials.gov/) APIs. By leveraging powerful Python libraries, it provides a small solution for researchers and developers working in the field of clinical data analysis.
 
 **Note**: The affiliation parser and keyword counter (`extract_phrases_and_countries` function) may encounter many limitations due to varying XML structures from PubMed. I planned to use the OpenAI API to improve parsing, but development stopped when my client went silent. Still, I hope this tool helps others looking for similar solutions!
+
+
+# [Project 2: Django_concepts](https://github.com/elrf3lipes/Django_concepts)
+
+## Overview
+
+Core concepts of building foundational Django applications and APIs, focusing on RESTful endpoints, user authentication, and seamless data manipulation, with advanced features like content management, comment systems, token authorization and admin integration.
+
+**[Django_API](https://github.com/elrf3lipes/Django_concepts/tree/main/Django_API)** is an API development project leveraging Django's REST framework to create secure, scalable endpoints. This project integrates powerful libraries such as Django REST framework, Django Filters, and DRF's token authentication to implement comprehensive CRUD operations, authentication, pagination, and filtering.
+
+**[Django_blog](https://github.com/elrf3lipes/Django_concepts/tree/main/Django_blog)** is a full-featured blogging platform built with Django, providing user-friendly content management and interactive features. It incorporates Django's built-in authentication system, along with tagging, commenting, and categorization functionalities, making it a versatile tool for managing blog content.
+
+**[import-export](https://github.com/elrf3lipes/Django_concepts/tree/main/import-export)** is a streamlined CRM application focused on data import and export functionality, seamlessly integrated with Django's admin interface. This project utilizes key libraries like Pandas, Django Import-Export, and various file handling modules to facilitate data import/export in formats like CSV and Excel, ensuring smooth data management and validation.
