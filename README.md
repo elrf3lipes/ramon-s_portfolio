@@ -77,9 +77,9 @@ I started studying and making Django projects for about an year now at the momen
 
 ## Acknowledgments
 
-Server-Side Logic
-RESTful API Development
-Database Management
-Token-Based Authentication
-Data Processing
-Containerization
+- Server-Side Logic
+- RESTful API Development
+- Database Management
+- Token-Based Authentication
+- Data Processing
+- Containerization
