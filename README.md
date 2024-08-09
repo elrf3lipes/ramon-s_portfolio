@@ -2,9 +2,6 @@
 # [Project 1: Pubmed and Clinical Trials - API-Data Extraction](https://github.com/elrf3lipes/Python_Automation_Projects/blob/master/Pubmed_Clinical_Trials_data_extraction_1.ipynb)
 
 ## Overview
-![](images/project_1.png)
-
-
 
 **Pubmed_Clinical_Trials_data_extraction_1** is a comprehensive data extraction and parsing tool that integrates with [Pubmed](https://www.ncbi.nlm.nih.gov/home/develop/api/) and [ClinicalTrials](https://clinicaltrials.gov/data-api/api) APIs. This project utilizes several powerful Python libraries including Entrez, Medline, Biopython, Requests, urllib, xml.etree, IPython, and Pandas to streamline the process of fetching and processing clinical trials data.
 
@@ -58,13 +55,10 @@ This project aims to simplify the process of extracting the affiliation data fro
 # [Project 2: Django_concepts](https://github.com/elrf3lipes/Django_concepts)
 
 ## Overview
-![](images/project_2.png)
 
+Core concepts of building foundational Django applications and APIs, focusing on RESTful endpoints, user authentication, and seamless data manipulation, with advanced features like content management, comment systems, token authorization, admin integration and containerization.
 
-
-Core concepts of building foundational Django applications and APIs, focusing on RESTful endpoints, user authentication, and seamless data manipulation, with advanced features like content management, comment systems, token authorization and admin integration.
-
-**[Django_API](https://github.com/elrf3lipes/Django_concepts/tree/main/Django_API)** is an API development project leveraging Django's REST framework to create secure, scalable endpoints. This project integrates powerful libraries such as Django REST framework, Django Filters, and DRF's token authentication to implement comprehensive CRUD operations, authentication, pagination, and filtering.
+**[Dockerized_Django_API](https://github.com/elrf3lipes/Django_concepts/tree/main/Django_API)** is an API development project leveraging Django's REST framework to create secure, scalable endpoints. This project integrates powerful libraries such as Django REST framework, Django Filters, and DRF's token authentication to implement comprehensive CRUD operations, authentication, pagination, and filtering. The project is Dockerized for easy deployment, with a Dockerfile that sets up the environment and runs the Django application, facilitating containerization and management.
 
 ![](images/testing_api.png)
 
@@ -72,5 +66,6 @@ Core concepts of building foundational Django applications and APIs, focusing on
 
 ![](images/blog_home.png)
 
-**[import-export](https://github.com/elrf3lipes/Django_concepts/tree/main/import-export)** is a streamlined CRM application focused on data import and export functionality, seamlessly integrated with Django's admin interface. This project utilizes key libraries like Pandas, Django Import-Export, and various file handling modules to facilitate data import/export in formats like CSV and Excel, ensuring smooth data management and validation.
+**[Django_CRM](https://github.com/elrf3lipes/Django_concepts/tree/main/import-export)** is a streamlined CRM application focused on data import and export functionality, integrated with Django's admin interface. This project utilizes key libraries like Pandas, Django Import-Export, and various file handling modules to facilitate data import/export in formats like CSV and Excel, ensuring easy data management and validation.
 
+![](images/crm.png)
