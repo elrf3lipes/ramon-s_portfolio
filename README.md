@@ -52,6 +52,7 @@ This project aims to simplify the process of extracting the affiliation data fro
 **Note**: The affiliation parser and keyword counter (`extract_phrases_and_countries` function) may encounter many limitations due to varying XML structures from PubMed. I planned to use the OpenAI API to improve parsing, but development stopped when my client went silent. Still, I hope this tool helps others looking for similar solutions!
 
 
+
 # [Project 2: Django_concepts - Backend Web Development](https://github.com/elrf3lipes/Django_concepts)
 
 ## Overview
