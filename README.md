@@ -52,11 +52,11 @@ This project aims to simplify the process of extracting the affiliation data fro
 **Note**: The affiliation parser and keyword counter (`extract_phrases_and_countries` function) may encounter many limitations due to varying XML structures from PubMed. I planned to use the OpenAI API to improve parsing, but development stopped when my client went silent. Still, I hope this tool helps others looking for similar solutions!
 
 
-# [Project 2: Django_concepts - Backend Web-development](https://github.com/elrf3lipes/Django_concepts)
+# [Project 2: Django_concepts - Backend Web Development](https://github.com/elrf3lipes/Django_concepts)
 
 ## Overview
 
-Core concepts of building foundational Django applications and APIs, focusing on RESTful endpoints, user authentication, and seamless data manipulation, with advanced features like content management, comment systems, token authorization, admin integration and containerization.
+Core concepts of Django backend development, including server-side logic, RESTful APIs, user authentication, and data management, with advanced features such as content management, comment systems, token authorization, admin integration, and containerization.
 
 **[Dockerized_Django_API](https://github.com/elrf3lipes/Django_concepts/tree/main/Django_API)** is an API development project leveraging Django's REST framework to create secure, scalable endpoints. This project integrates powerful libraries such as Django REST framework, Django Filters, and DRF's token authentication to implement comprehensive CRUD operations, authentication, pagination, and filtering. The project is Dockerized for easy deployment, with a Dockerfile that sets up the environment and runs the Django application, facilitating containerization and management.
 
