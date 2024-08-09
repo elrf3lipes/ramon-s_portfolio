@@ -70,3 +70,16 @@ Core concepts of Django backend development, including server-side logic, RESTfu
 **[Django_CRM](https://github.com/elrf3lipes/Django_concepts/tree/main/import-export)** is a streamlined CRM application focused on data import and export functionality, integrated with Django's admin interface. This project utilizes key libraries like Pandas, Django Import-Export, and various file handling modules to facilitate data import/export in formats like CSV and Excel, ensuring easy data management and validation.
 
 ![](images/crm.png)
+
+## Motivation
+
+I started studying and making Django projects for about an year now at the moment of this writing, mostly to enhance my Python skills along with career prospects, specially to understand and implement ORM(Object-Relational Mapping) solutions in the context of having a deeper understanding of Web Development. 
+
+## Acknowledgments
+
+Server-Side Logic
+RESTful API Development
+Database Management
+Token-Based Authentication
+Data Processing
+Containerization
