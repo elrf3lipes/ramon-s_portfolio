@@ -1,5 +1,5 @@
 
-# [Project 1: Pubmed and Clinical Trials - API-Data Extraction](https://github.com/elrf3lipes/Python_Automation_Projects/blob/master/Pubmed_Clinical_Trials_data_extraction_1.ipynb)
+# [Project 1: API-Data Extraction](https://github.com/elrf3lipes/Python_Automation_Projects/blob/master/Pubmed_Clinical_Trials_data_extraction_1.ipynb)
 
 ## Overview
 
@@ -53,7 +53,7 @@ This project aims to simplify the process of extracting the affiliation data fro
 
 
 
-# [Project 2: Django_concepts - Backend Web Development](https://github.com/elrf3lipes/Django_concepts)
+# [Project 2: Backend Web Development](https://github.com/elrf3lipes/Django_concepts)
 
 ## Overview
 
