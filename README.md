@@ -2,7 +2,7 @@
 
 ## Overview
 
-Core concepts of Django backend development, including server-side logic, RESTful APIs, user authentication, and data management, with advanced features such as content management, comment systems, token authorization, admin integration, containerization, real-time data management, CI/CD automation.
+Core concepts of Django backend development, including server-side logic, RESTful and Fast APIs, user authentication, content management, comment systems, token authorization, admin integration, containerization, real-time data management, CI/CD automation.
 
 **[Dockerized_Django_API](https://github.com/elrf3lipes/Django_concepts/tree/main/Django_API)** is an API development project leveraging Django's REST framework to create secure, scalable endpoints. This project integrates powerful libraries such as Django REST framework, Django Filters, and DRF's token authentication to implement comprehensive CRUD operations, authentication, pagination, and filtering. The project is Dockerized for easy deployment, with a Dockerfile that sets up the environment and runs the Django application, facilitating containerization and management.
 
@@ -18,7 +18,7 @@ Core concepts of Django backend development, including server-side logic, RESTfu
 
 ## Motivation
 
-Having a background in Data Analysis I've noticed a demand for backend solutions where you need to easily deploy CRM applications for data management and general CRUD operations, again my main goal was to get practical experience in developing such applications.
+Having a background in Data Analysis I've noticed a demand for backend solutions where you need to easily deploy CRM applications for data management and general CRUD operations, again my main goal was to get practical experience in developing such applications. For Django blog the idea was to build something that offers user-friendly content management and get experience in full-stack Django development.
 
 ## Acknowledgments
 
