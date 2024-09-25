@@ -1,4 +1,4 @@
-# [Cloud Projects](https://github.com/elrf3lipes/serverless_tasks_api)
+# [☁️Cloud Projects](https://github.com/elrf3lipes/serverless_tasks_api)
 
 ## Overview
 
