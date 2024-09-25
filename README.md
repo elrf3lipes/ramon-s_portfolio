@@ -58,7 +58,7 @@ curl -X DELETE https://<api-url>/tasks/<taskId>
 ![Curl Responses](https://github.com/elrf3lipes/ramon-s_portfolio/raw/main/images/curl_responses.png)
 
 
-# [🚀 Backend/Web Development Projects](https://github.com/elrf3lipes/Django_concepts)
+# [🖥️ Backend/Web Development Projects](https://github.com/elrf3lipes/Django_concepts)
 
 ## Overview
 
