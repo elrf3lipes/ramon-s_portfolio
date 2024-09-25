@@ -58,6 +58,7 @@ curl -X DELETE https://<api-url>/tasks/<taskId>
 ![Curl Responses](https://github.com/elrf3lipes/ramon-s_portfolio/raw/main/images/curl_responses.png)
 
 
+
 # [🖥️ Backend/Web Development Projects](https://github.com/elrf3lipes/Django_concepts)
 
 ## Overview
@@ -106,6 +107,7 @@ This project was aimed at gaining hands-on experience in developing applications
 - Modular Application Development
 - Dockerization
 - Automated Testing & Linting
+
 
 
 # [📊 API-Data Extraction Project](https://github.com/elrf3lipes/Python_Automation_Projects/blob/master/Pubmed_Clinical_Trials_data_extraction_1.ipynb)
